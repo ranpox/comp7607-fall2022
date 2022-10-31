@@ -9,9 +9,11 @@ COMP3314 or COMP3340, MATH1853
 ## Assessment
 50% continuous assessment, 50% course project
 
-## Assignments
-
 [Assignments 1](assignments/A1)
+
+[Assignments 2](assignments/A2)
+
+[Final Project](project/)
 
 ### Evaluation
 We will review your work individually to ensure that you receive due credit for your work. Please note that both your project output and logic will be considered for marking. Late submissions will not be graded.
