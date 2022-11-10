@@ -5,4 +5,4 @@
 
 ## Important Dates:
 - Assignment release: October 31, 2022
-- Submission deadline: November 15, 2022, 06:00am (Late submissions will not be graded.)
+- Submission deadline: November 22, 2022, 06:00am (Late submissions will not be graded.)
