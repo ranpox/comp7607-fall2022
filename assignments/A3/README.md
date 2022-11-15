@@ -1,7 +1,8 @@
 # Assignment 3
 
 ## Contents
-- [A3.pdf](A3.pdf): Assignment Handbook
+- [A3.pdf](A3.pdf): Assignment
+- [A3.tex](A3.tex): Template
 
 ## Recommended Reading Materials
 - [J&M Ch.8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
